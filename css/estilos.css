@@ -30,3 +30,11 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#footer{
+    background: #777;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    padding: 00.5em;
+}
